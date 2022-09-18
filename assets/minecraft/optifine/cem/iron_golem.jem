@@ -1,0 +1,11 @@
+{
+  "textureSize": [128,128],
+  "models": 
+  [
+    {
+      "model": "iron_golemhead.jpm",
+      "part": "head", 
+      "attach": false,
+      "translate": [-1, -4, -1],
+      "rotate": [0, 0, 0]
+    }]}
