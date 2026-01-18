@@ -1,9 +1,8 @@
 {
-  "textureSize": [128,128],
   "models": 
   [
     {
-      "model": "iron_golemhead.jpm",
+      "model": "iron_golem_head.jpm",
       "part": "head", 
       "attach": false,
       "translate": [-1, -4, -1],
