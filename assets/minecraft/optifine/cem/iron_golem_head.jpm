@@ -1,0 +1,20 @@
+{
+  "submodels": [
+    {
+      "texture": "textures/entity/iron_golem_head",
+      "textureSize": [32,32],
+      "boxes": [
+        {
+          "coordinates": [-4,-8,-4,10,10,10],
+	        "uvDown": [0,0,16,16],
+	        "uvUp": [0,0,16,16],
+          "uvNorth": [0,16,16,32],
+          "uvSouth": [17,17,32,32],
+          "uvWest": [17,17,32,32],
+          "uvEast": [17,17,32,32]
+        }
+      ]
+    }
+
+      ]
+    }
