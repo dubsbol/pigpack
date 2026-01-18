@@ -1,9 +1,9 @@
 {
     "pack": {
-        "pack_format": 15,
+        "pack_format": 34,
             "min_format": 15,
-            "max_format": 75,
-		    "supported_formats": {"min_inclusive": 15, "max_inclusive": 75},   "pack_format": 94.1,
+            "max_format": 34,
+		    "supported_formats": {"min_inclusive": 15, "max_inclusive": 34},   
     "description": "Pig Villagers +"
     }
 }
